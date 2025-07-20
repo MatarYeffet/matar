@@ -5,4 +5,3 @@ def decimal_to_twos_complement(num, bits):
     return format(twos_complement, f'0{bits}b')
 
 
-#decimal_to_twos_complement(10,2)
