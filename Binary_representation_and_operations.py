@@ -1,2 +1,2 @@
-def Binary_representation_and_operations():
+def Binary_representation_and_operations(num):
     
