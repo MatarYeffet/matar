@@ -10,7 +10,10 @@ def Binary_representation_and_operations(num):
         if binary_num[g] == 0:
             binary_num[g] = 1
             break
-        else
+        else:
+            binary_num[g] = 0
+            g += 1
+    print(binary_num)
 
 
 Binary_representation_and_operations(10)
