@@ -8,7 +8,7 @@ def Binary_representation_and_operations(num):
             binary_num[i] = 0
     while binary_num[g] != binary_num[-1]:
         if binary_num[g] == 0:
-            binary_num
+            binary_num[g] = 1
 
 
 Binary_representation_and_operations(10)
