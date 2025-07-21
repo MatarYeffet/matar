@@ -5,7 +5,7 @@ def Binary_representation_and_operations(num):
             binary_num[i] = 1
         else:
             binary_num[i] = 0
-    str ""
+    
 
 
 Binary_representation_and_operations(10)
