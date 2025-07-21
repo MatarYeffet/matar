@@ -1,7 +1,7 @@
 def Binary_representation_and_operations(num):
     g = 0
     binary_num = bin(num)[2:]
-    binary_num_list = list(binary_num_list)
+    binary_num_list = list(binary_num)
     for i in range(len(binary_num_list)):
         if binary_num_list[i] == 0:
             binary_num_list[i] = 1
