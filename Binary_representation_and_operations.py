@@ -20,4 +20,4 @@ def Binary_representation_and_operations(num, bits=8):
     negative_binary = ''.join(binary_num_list)
     return negative_binary
 
-Binary_representation_and_operations(1,bits=8)
+print(Binary_representation_and_operations(1, bits=8))
