@@ -9,6 +9,8 @@ def Binary_representation_and_operations(num):
     while binary_num[g] != binary_num[-1]:
         if binary_num[g] == 0:
             binary_num[g] = 1
+            break
+        else
 
 
 Binary_representation_and_operations(10)
