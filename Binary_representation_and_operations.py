@@ -18,4 +18,4 @@ def Binary_representation_and_operations(num):
     print(binary_representation_of_a_negative_number)
 
 
-Binary_representation_and_operations(4)
+Binary_representation_and_operations(2)
