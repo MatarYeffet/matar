@@ -14,7 +14,7 @@ def Binary_representation_and_operations(num):
         else:
             binary_num_list[g] = 0
             g += 1
-    binary_representation_of_a_negative_number = ''.join(binary_num_list)
+    binary_representation_of_a_negative_number = ''.join(str(bit) for bit in binary_num_list)
     print(binary_representation_of_a_negative_number)
 
 
